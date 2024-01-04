@@ -11,7 +11,7 @@ Recent graduate from Stevens Institute of Technology with a MSc. in Cybersecurit
 *   🧠  I'm currently studying for the Sec+ Exam
 *   🤝  I'm open to any full time or internship cybersecurity opportunities!
 *   🔭  I’m currently learning about Rolljam Attacks
-*   👯  I’m looking to collaborate on cybersecurity research
+*   👯  I’m looking to collaborate on cybersecurity projects
 
 ### Skills 
 <p align="left">
